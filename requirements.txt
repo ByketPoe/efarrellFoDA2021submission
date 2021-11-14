@@ -2,3 +2,4 @@ numpy
 matplotlib
 xml.etree.ElementTree
 requests
+re
