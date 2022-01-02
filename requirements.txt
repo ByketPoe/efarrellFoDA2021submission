@@ -1,5 +1,8 @@
 numpy
-matplotlib
+matplotlib.pyplot
 xml.etree.ElementTree
-requests
 re
+requests
+pandas
+urllib.request
+datetime
